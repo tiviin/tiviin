@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tiviin
 - 👀 I’m interested in learning HTML, CSS and Javascript, which im studying via b7web.
-- Right now im studying with MIT - Introduction to Computer Science and Programming Using Python and CS50's Introduction to Computer Science (both via EDX)
+- 👀 Also studying Python and SQL (for now, SQLite) to build my site: https://tiviin.pythonanywhere.com
+- Finished the CS50's Introduction to Computer Science in Sep/2022;
 
 <!---
 tiviin/tiviin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
